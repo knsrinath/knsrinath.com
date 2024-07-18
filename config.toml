@@ -1,0 +1,51 @@
+baseURL = "https://knsrinath.com/"
+title = "Naga Srinath"
+
+[permalinks]
+post = "/blog/:slug"
+
+[menu]
+
+[[menu.main]]
+name = "Education"
+url = "/education"
+weight = 10
+
+[[menu.main]]
+name = "Skills"
+url = "/skills"
+weight = 20
+
+[[menu.main]]
+name = "Links"
+url = "/links"
+weight = 30
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 40
+
+[[menu.social]]
+name = "GitHub"
+pre = "github"
+url = "https://github.com/knsrinath"
+weight = 10
+
+[[menu.social]]
+name = "LinkedIn"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/knsrinath/"
+weight = 20
+
+[[menu.social]]
+name = "Mastodon"
+pre = "mastodon"
+url = "https://mastodon.online/@knsrinath"
+weight = 30
+
+[markup]
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+[markup.highlight]
+style = 'catppuccin-macchiato'
