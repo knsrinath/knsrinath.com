@@ -5,8 +5,8 @@
 }
 
 @font-face {
-    font-family: "Borel";
-    src: url("/fonts/Borel-Regular.ttf");
+    font-family: "Playwrite";
+    src: url("/fonts/Playwrite.ttf");
 }
 
 /* Variables */
@@ -314,7 +314,7 @@ header + figure {
     font-weight: bold;
     padding-left: 0;
     text-decoration: underline;
-    font-family: "Borel", cursive;
+    font-family: "Playwrite", cursive;
 }
 
 .menu {
