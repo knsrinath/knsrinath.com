@@ -14,8 +14,3 @@ title: Education
 >2022-2026\
 >Bachelor of Technology in **Computer Science and Engineering**\
 >CGPA: **7.4/10**
-
->### Sri Gayatri Junior College
->2020-2022\
->**Intermediate**\
->**97%**
